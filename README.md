@@ -4,8 +4,8 @@ In this repository I have implemented various Dimensionality-Reduction-Technique
 ## Main Aim
 The main objective of this repository is to try Hands-On implementation of Dimensionality-Reduction-Techniques. I have implemented PCA & LDA in this repository
 
+## PCA [homepage](https://github.com/dishaaagarwal/Dimensionality-Reduction-Techniques/blob/main/PCA.ipynb)
 
-## PCA
 
 - **PCA from stratch using Python**
 
