@@ -39,11 +39,13 @@ The main objective of this repository is to try Hands-On implementation of Dimen
 
 - **Fit the Data for LDA**
 - **Logistic Regression using LDA**
+- 
 While using LDA with Linear algorithm I was able to achieve an accuracy of  train data=**98%**  test data=**94%**
 - 
 ![](/images/LDA_1.png)
 
 - **SVM using LDA**
+- 
 While using LDA with non-Linear algorithm I was able to achieve an accuracy of  train data=**100%**  test data=**100%**
 
 ![](/images/LDA_3.png)
