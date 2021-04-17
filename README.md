@@ -32,3 +32,17 @@ The main objective of this repository is to try Hands-On implementation of Dimen
 - **Kernel PCA**
 
 ![](/images/kernel_PCA_1.png)
+
+
+
+## LDA
+
+- **Fit the Data for LDA**
+
+- **Logistic Regression using LDA**
+
+![](/images/LDA_1.png) LDA with Linear algorithm
+
+- **SVM using LDA**
+
+![](/images/LDA_3.png) LDA with non-Linear algorithm
